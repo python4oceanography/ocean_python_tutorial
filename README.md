@@ -8,7 +8,7 @@ http://earthpy.org/category/introduction-to-python.html
 
 How to install miniconda with some useful tools for Oceanographers:
 
-https://github.com/cgentemann/cloud_science/blob/master/GHRSST_tutorial/python_installation_instructions
+https://github.com/python4oceanography/ocean_python_tutorial/blob/master/python_installation_instructions.md
 
 ## Workshop:
 A one day introduction to Python for oceanographers to introduce oceanographers to Python programming and reproducible research using Jupyter Notebooks, Git, software citations, and cloud computing.  This hands-on course will use common oceanographic research analyses to demonstrate capabilities of Python, open source software libraries, and cloud computing.
