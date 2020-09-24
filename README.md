@@ -1,7 +1,14 @@
 
-# Click here to start interactive tutorial
+# Click below to start interactive tutorial
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/python4oceanography/ocean_python_tutorial/master)
+To explore Pangeo data on GCP (eg. CCMP), select the button 'Pangeo Binder GCP US-central1', and then, once the binder initializes, select 'tutorials'. 
+
+| [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master?urlpath=git-pull?repo=https://github.com/python4oceanography/ocean_python_tutorial) |
+
+To explore 3 difference cloud-optimized datasets (MUR SST, GOES, ERA5), select button below 'Pangeo Binder AWS US-west1', and then, once the binder initializes, select 'tutorials'.
+
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master?urlpath=git-pull?repo=https://github.com/python4oceanography/ocean_python_tutorial)
+
 
 Some helpful webpages on python:
 http://earthpy.org/category/introduction-to-python.html
